@@ -23,7 +23,7 @@ This site began with a [seemingly innocent post](https://www.reddit.com/r/Dyson_
 >
 > ([comment](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/comment/k59l96t/?utm_source=share&utm_medium=web2x&context=3))
 
-#### [u/kumakun731]() adds:
+#### [u/kumakun731](https://reddit.com/u/kumakun731) adds:
 
 > Don't look up guides or especially blueprints. I wish I could replay this game for the first time again, Don't rob yourself of that.
 >
