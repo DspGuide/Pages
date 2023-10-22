@@ -1,5 +1,7 @@
 # The UNOFFICIAL Reddit Guide to Dyson Sphere Program
 
+[Read the Pages!](https://dspguide.github.io/Pages/index.html)
+
 ## Building and Viewing the Pages
 
 1. Install [docfx](https://dotnet.github.io/docfx/) locally
