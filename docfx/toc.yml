@@ -1,0 +1,9 @@
+- name: Beginners
+  href: n00bs/
+  homepage: n00bs/index.md
+- name: Intermediate
+  href: int/
+  homepage: int/index.md
+- name: Advanced
+  href: adv/
+  homepage: adv/index.md

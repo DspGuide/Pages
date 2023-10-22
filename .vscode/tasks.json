@@ -1,0 +1,44 @@
+{
+    "tasks": [
+        {
+            "command":"docfx",
+            "args": [
+                "build"
+            ],
+            "problemMatcher": [
+                "$msCompile"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "label": "build",
+            "type": "shell",
+            "options": {
+                "cwd": "docfx"
+            },
+        },
+        {
+            "command": "docfx",
+            "args": [
+                "serve",
+                "_site"
+            ],
+            "problemMatcher": [
+                "$msCompile"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "label": "build: Compile and Serve site with DocFX",
+            "type": "shell",
+            "options": {
+                "cwd": "docfx"
+            },
+            "dependsOn":[
+                "build" 
+            ]
+        }
+    ]
+}

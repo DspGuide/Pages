@@ -1,0 +1,44 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.{md,yml}"
+        ],
+        "exclude":[
+          "**/include/**",
+          "**/_site/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ]
+      }
+    ],
+    "dest": "../docs",
+    "globalMetadataFiles": [],
+    "fileMetadataFiles": [],
+    "template": [
+      "default",
+      "modern",
+      "templates/dsp/dsp"
+    ],
+    "postProcessors": [],
+    "keepFileLink": false,
+    "disableGitFeatures": true,
+    "build": {
+      "globalMetadata": {
+        "_appTitle": "The Unofficial Reddit Guide to Dyson Sphere Program",
+        "_appName": "Reddit's DSP Guide"
+      },
+      "sitemap": {
+        "baseUrl": "https://dotnet.github.io/docfx",
+        "priority": 0.1,
+        "changefreq": "monthly"
+      }
+    }
+  }
+}

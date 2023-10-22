@@ -1,0 +1,125 @@
+{
+  "homepages": [],
+  "source_base_path": "F:/GitHub/DysonSphereProgramRedditGuide/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "adv/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "adv/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "adv/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "adv/toc.html"
+        },
+        ".json": {
+          "relative_path": "adv/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/banner.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/banner.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "int/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "int/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "int/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "int/toc.html"
+        },
+        ".json": {
+          "relative_path": "int/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "n00bs/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "n00bs/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "n00bs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "n00bs/toc.html"
+        },
+        ".json": {
+          "relative_path": "n00bs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
