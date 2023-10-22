@@ -1,5 +1,7 @@
 ---
 _title: "The Unofficial Reddit Guide to Dyson Sphere Program"
+_slug: 'index.html'
+_baseUrl: "https://dspguide.github.io/Pages"
 ---
 
 ## Table of Contents

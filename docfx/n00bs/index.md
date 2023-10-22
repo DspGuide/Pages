@@ -1,5 +1,7 @@
 ---
-_title: Beginning to Play Dyson Sphere Program
+_title: 'Beginning to Play Dyson Sphere Program'
+_slug: 'n00bs/index.html'
+_baseUrl: "https://dspguide.github.io/Pages"
 ---
 
 ## How is this Site Structured?

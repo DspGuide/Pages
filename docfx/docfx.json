@@ -31,6 +31,7 @@
     "disableGitFeatures": true,
     "build": {
       "globalMetadata": {
+        "_baseUrl": "https://dspguide.github.io/Pages",
         "_appTitle": "The Unofficial Reddit Guide to Dyson Sphere Program",
         "_appName": "Reddit's DSP Guide",
         "_enableNewTab": true
