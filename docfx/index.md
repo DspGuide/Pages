@@ -10,7 +10,7 @@ _title: "The Unofficial Reddit Guide to Dyson Sphere Program"
 
 ## Resources
 
-- [r/dysonsphereprogram#target=_blank](https://www.reddit.com/r/Dyson_Sphere_Program)
-- [Discord Server#target=_blank](https://discord.com/invite/kJCvexg5C9)
-- [DSP Wiki#target=_blank](https://dsp-wiki.com/Main_Page)
-- [FactorioLab#target=_blank](https://factoriolab.github.io/list#s=dsp)
+- <a href='https://www.reddit.com/r/Dyson_Sphere_Program' target='_blank'>r/dysonsphereprogram</a>
+- <a href='https://discord.com/invite/kJCvexg5C9' target='_blank'>Discord Server</a>
+- <a href='https://dsp-wiki.com/Main_Page' target='_blank'>DSP Wiki</a>
+- <a href='https://factoriolab.github.io/list#s=dsp' target='_blank'>FactorioLab</a>

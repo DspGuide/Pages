@@ -32,10 +32,11 @@
     "build": {
       "globalMetadata": {
         "_appTitle": "The Unofficial Reddit Guide to Dyson Sphere Program",
-        "_appName": "Reddit's DSP Guide"
+        "_appName": "Reddit's DSP Guide",
+        "_enableNewTab": true
       },
       "sitemap": {
-        "baseUrl": "https://dotnet.github.io/docfx",
+        "baseUrl": "https://dspguide.github.io/Pages",
         "priority": 0.1,
         "changefreq": "monthly"
       }
