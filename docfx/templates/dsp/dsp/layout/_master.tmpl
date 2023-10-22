@@ -62,11 +62,33 @@ for full license information.}}
                 <article class="content wrap" id="_content" data-uid="{{uid}}">
                     <div
                         style="position:relative; background: url(&quot;{{_rel}}images/banner.png&quot;) center center / cover no-repeat rgb(0, 0, 0); filter: none; height: 192px;">
-                        <h1 style="position: absolute; right: 10px; bottom: 10px; background: #00000088; margin-bottom: 0px;">{{_title}}</h1>
+                        <h1
+                            style="position: absolute; right: 10px; bottom: 10px; background: #00000088; margin-bottom: 0px;">
+                            {{_title}}</h1>
                     </div>
                     {{!body}}
                 </article>
 
+                <div id="disqus_thread"></div>
+                <script>
+                    /**
+                    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+                    
+                    var disqus_config = function () {
+                    this.page.url = document.location;  // Replace PAGE_URL with your page's canonical URL variable
+                    this.page.identifier = {{_title}}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                    };
+                    
+                    (function () { // DON'T EDIT BELOW THIS LINE
+                        var d = document, s = d.createElement('script');
+                        s.src = 'https://reddit-dsp-guide.disqus.com/embed.js';
+                        s.setAttribute('data-timestamp', +new Date());
+                        (d.head || d.body).appendChild(s);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments
+                        powered by Disqus.</a></noscript>
             </div>
         </main>
     </div>
