@@ -4,18 +4,6 @@ _slug: 'n00bs/index.html'
 _baseUrl: "https://dspguide.github.io/Pages"
 ---
 
-## How is this Site Structured?
-
-This site began with a [seemingly innocent post](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/what_are_your_dyson_sphere_program_pro_tips/) on Reddit, which got an overwhelming response and tons of great content.
-
-## What is Dyson Sphere Program About?
-
-According to space.com,
-
-> A [Dyson Sphere](https://www.space.com/dyson-sphere.html) is a theoretical mega-engineering project that encircles a star with platforms orbiting in tight formation. It is the ultimate solution for living space and energy production, providing its creators ample surface area for habitation and the ability to capture every bit of solar radiation emanating from their central star.
-
-[Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/) is a game about creating a Dyson Sphere from scratch as you arrive on an uninhabited world with the task of building the infrastructure and manufacturing capacity to build and launch components of the sphere into orbit around a star and then repeat the process throughout a small cluster of stars.
-
 ## Getting Started
 
 __*Reddit Says...*__
@@ -121,4 +109,3 @@ When starting out, you don't realize how many planets you will be colonizing and
 > > > You still want to construct the factory on busses that are plugged into an ILS. Otherwise you’re basically limited to one assembler per belt.
 >
 > ([comment](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/comment/k59mg45/?utm_source=share&utm_medium=web2x&context=3))
-
