@@ -22,3 +22,14 @@ _baseUrl: "https://dspguide.github.io/Pages"
 > - Products that you might wish to skip proliferating, or use production speed-up on, are: all products that are made from just a single ore, as well as casimir crystals (the latter because they require so many proliferation charges while they are not actually that expensive to make).
 >
 > ([comment](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/comment/k59u10a/?utm_source=share&utm_medium=web2x&context=3))
+
+#### [u/Steven-ape](https://reddit.com/u/Steven-ape) later added:
+
+> - Get the deuteron power cells and make sure you have enough power
+> - Make a better mall, one that builds all buildings in the game
+> - Start organising your base more systematically
+> - When you unlock purple science, explore the star cluster to find convenient rare resources, particularly organic crystals, fire ice and sulfuric acid.
+>
+> ([comment](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/comment/k5dbppj/?utm_source=share&utm_medium=web2x&context=3))
+
+

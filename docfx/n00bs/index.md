@@ -10,7 +10,7 @@ This site began with a [seemingly innocent post](https://www.reddit.com/r/Dyson_
 
 ## What is Dyson Sphere Program About?
 
-According to space.com, 
+According to space.com,
 
 > A [Dyson Sphere](https://www.space.com/dyson-sphere.html) is a theoretical mega-engineering project that encircles a star with platforms orbiting in tight formation. It is the ultimate solution for living space and energy production, providing its creators ample surface area for habitation and the ability to capture every bit of solar radiation emanating from their central star.
 
@@ -20,7 +20,7 @@ According to space.com,
 
 __*Reddit Says...*__
 
-#### [u/The_Quackening](https://reddit.com/u/The_Quackening): 
+#### [u/The_Quackening](https://reddit.com/u/The_Quackening):
 
 > Set up assemblers that will build: belts, power poles, assemblers, and sorters.
 >
@@ -45,7 +45,7 @@ __*Reddit Says...*__
 #### [u/Site-Specialist](https://reddit.com/u/Site-Specialist) replied with:
 
 > I'd like to add to this have storages filled with stuff as well this way when you unlocked a new recipe for buildings or materials then you already got what you need instead of needing to adjust your resources output whenever I'd go to a new planet I usually had 50 solar panels ready to set down to cover any power needs
-> 
+>
 > ([comment](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/comment/k5bpodn/?utm_source=share&utm_medium=web2x&context=3))
 
 The important takeaway here is that it's important to set up assemblers to build some of the buildings such as conveyors to reduce the time spent replicating them in your mech.  Stockpiling them in storage is important, too and you need to devise a methodology for finding and retrieving them in  the early game before logistics bots are available.
@@ -91,3 +91,34 @@ When starting out, you don't realize how many planets you will be colonizing and
 > - If you're producing a single item using a logistics tower, you can usually put four columns of production facilities side by side. This starts to get cramped for products that have three input materials, like super-magnetic rings. Consider making just two columns for those kinds of items if you want to keep your builds simple.
 >
 > ([comment](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/comment/k59u10a/?utm_source=share&utm_medium=web2x&context=3))
+
+#### [u/legomann97](https://reddit.com/u/legomann97) offers good advice about energy:
+
+> Embrace the spaghetti early on. Things will clean up when you get logistics, but until then expect to have to organically build your factory rather than systematically.
+>
+> Always have a very healthy backup supply of fuel for your factory. In the event of a brownout or blackout, you want to make sure you have enough emergency fuel on hand, at least half an hour's worth, so you can diagnose and fix the problem. If you don't, a brownout will slow down fuel production, meaning less power, meaning slower production, resulting in a blackout. Now you have no fuel and no power to make any more fuel and are SOL.
+>
+> Swarms can be a noob trap. If you start relying on one for power and let the sail production die, it's REALLY REALLY hard to pull out of that downward spiral.
+>
+> ([comment](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/comment/k59wtmy/?utm_source=share&utm_medium=web2x&context=3))
+
+#### [u/spinyfur](https://reddit.com/u/spinyfur) and [u/Taikunman](https://reddit.com/u/Taikunman) weighed in with some advice on belts:
+
+> spinyfur:
+>
+> Noob advice: use bus construction.
+>
+> Setup one of more belts that feed in materials and place smelters or assemblers along the length of it, feeding their products out through a belt on the opposite side.
+>
+> > Taikunman:
+> >
+> > I did my first playthrough with a bus just because I was used to doing that in Factorio.
+> >
+> > It's good to learn the components and crafting requirements in the game but you'll eventually hit a throughput wall with belts, even using pilers. Still a viable strategy for a new player but logistics is much more scalable.
+> >
+> > > spinyfur:
+> > >
+> > > You still want to construct the factory on busses that are plugged into an ILS. Otherwise you’re basically limited to one assembler per belt.
+>
+> ([comment](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/comment/k59mg45/?utm_source=share&utm_medium=web2x&context=3))
+
