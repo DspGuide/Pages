@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"entomy.docfx-bench",
+			"momonet.docfx-toc-generator",
+			"qezhu.markdocs",
+			"github.vscode-github-actions",
+			"bierner.github-markdown-preview",
+			"george-alisson.html-preview-vscode"
+		]
+	}
+}
