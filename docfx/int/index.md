@@ -32,4 +32,18 @@ _baseUrl: "https://dspguide.github.io/Pages"
 >
 > ([comment](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/comment/k5dbppj/?utm_source=share&utm_medium=web2x&context=3))
 
+#### [u/izeil1](https://reddit.com/u/izeil1) has a lot to add about the mid-game:
 
+> Once you get to ILS, make a mall with small storages in front of it and everything but a few things set to 100 max in the ILS but set the small storage to however many you actually want. If you want to be able to request buildings, generally you're not going to want a vessel full of them, but if you make your storage be in the ILS instead of the box, it'll send whatever you have in the ILS. If there's only 100 in there with a storage buffer, you're only gonna get 100 (or whatever amount you choose) per vessel.
+>
+> The earlier in a production chain you proliferate, the more effective it's going to be. If you're having stuff randomly not getting proliferated, first check your power. If you're not at 100% satisfaction it's going to skip items occasionally. Always proliferate fuel, especially once you get to hydrogen fuel rods or better.
+>
+> Even if you don't want to set up a full production line for a given thing, you can set up a small line of assemblers with a box feeding a specific amount of items into them. Even 2 mk1 assemblers is going to be faster than hand crafting.
+>
+> Xray cracking is okay early game, but once you can get hydrogen from gas giants, it's a total trap.
+>
+> If a setup isn't requesting or supplying like it should, first check the ILS settings. If the settings are fine, check to see whether you have the given tech for vessel warp. If you both of those are fine, check to make sure there's actual warpers in it. Sounds dumb but almost everyone who has played this game has had a "Doh!" moment where they did something dumb like that.
+>
+> This one is a personal thing, but once I found an assembler setup I like, I have a blueprint for the ILS/sprayers part of it in 1/2/3 ingredient versions, as well as a 4x4 modular set of assemblers that match. All I have to do is slap the front version down, find out which ingredient is the belt bottleneck, then figure out how many of the modular things I have to slap down. Very handy. Also have a blank smelter array in mk1 and mk2.
+>
+> ([comment](https://www.reddit.com/r/Dyson_Sphere_Program/comments/179y1jp/comment/k59nd9p/?utm_source=share&utm_medium=web2x&context=3))
